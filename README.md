@@ -88,3 +88,5 @@ Deberías ver el siguiente output en la terminal:
 myPlugin
 ```
 
+## Enlace
+https://www.npmjs.com/settings/antoniodev2024/packages
